@@ -1,0 +1,1 @@
+{"version":1,"defects":{"websiteTest::testClass":7,"carTest::testClass":7,"calculateCartTest::testCalcCart":5,"calculateCartTest::testCalculateTotal":7},"times":{"websiteTest::testClass":0.007,"carTest::testClass":0.005,"calculateCartTest::testCalcCart":0.19,"calculateCartTest::testCalculateTotal":0.013}}

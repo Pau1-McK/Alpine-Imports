@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Public/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Public/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Public/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Public/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Public/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Public/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Public/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/Public/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Public/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Public/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Public/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Public/vendor/composer" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/Public/vendor/sebastian/version" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/Public/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
